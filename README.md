@@ -286,4 +286,4 @@ Unauthorized use, reproduction, or distribution is strictly prohibited.
 ### ⭐ If you found this helpful, star the repo!
 
 **Crafted with 💜 and ☕ by Aryan Sharma**  
-*A student developer from Shahjahanpur, Uttar Pradesh, India*
+*A student developer from Delhi NCR*
