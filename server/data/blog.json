@@ -1,0 +1,16 @@
+[
+    {
+        "slug": "optimizing-webxr-performance",
+        "title": "Optimizing WebXR Performance",
+        "excerpt": "Techniques and tips for getting the most out of WebXR experiences.",
+        "content": "# Optimizing WebXR Performance\nContent goes here...",
+        "createdAt": "2024-03-12"
+    },
+    {
+        "slug": "building-audio-reactive-visuals",
+        "title": "Building Audio-Reactive Visuals",
+        "excerpt": "A guide to building music-reactive visuals using WebAudio and WebGL.",
+        "content": "# Building Audio-Reactive Visuals\nContent goes here...",
+        "createdAt": "2023-10-05"
+    }
+]

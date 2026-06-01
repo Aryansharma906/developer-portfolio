@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "name": "Jane Doe",
+        "avatar": "/assets/profile.jpg",\n        "role": "CTO, ExampleCorp",
+        "text": "Aryan delivered a high-quality AR experience on time. Highly recommended!",
+        "rating": 5
+    },
+    {
+        "id": 2,
+        "name": "John Smith",
+        "avatar": "/src/assets/profile.jpg",
+        "role": "Product Manager",
+        "text": "Great communication and attention to detail. The final product exceeded expectations.",
+        "rating": 4
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "title": "How I built my AR portfolio",
+        "slug": "built-ar-portfolio",
+        "excerpt": "A quick overview of technologies and approaches used to build an AR-enabled developer portfolio.",
+        "tags": [
+            "AR",
+            "WebXR",
+            "TypeScript"
+        ],
+        "image": "/assets/profile.jpg",
+        "createdAt": "2025-09-01"
+    },
+    {
+        "id": 2,
+        "title": "Designing accessible components",
+        "slug": "accessible-components",
+        "excerpt": "Accessibility-first UI patterns used across the site, including keyboard navigation and ARIA roles.",
+        "tags": [
+            "Accessibility",
+            "Design"
+        ],
+        "image": "/src/assets/profile.jpg",
+        "createdAt": "2025-08-15"
+    }
+]

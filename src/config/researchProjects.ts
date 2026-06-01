@@ -1,0 +1,27 @@
+export interface ResearchProject {
+    id: number;
+    title: string;
+    excerpt: string;
+    details?: string;
+    tags: string[];
+    thumbnail: string;
+    link?: string;
+    featured?: boolean;
+}
+
+export const RESEARCH_PROJECTS: ResearchProject[] = [
+    {
+        id: 1,
+        title: "Brain-Inspired Psychometric Neural Network",
+        excerpt:
+            "A neurocognitively-informed model for Big Five trait inference using attentional modules, BiLSTM layers, and neuroplastic learning schedules.",
+        details:
+            "This research explores architectures that combine attention, recurrent layers, and contrastive pretraining to infer psychometric traits from multimodal signals.",
+        tags: ["AI", "Psychometrics", "Neuroscience", "Deep Learning", "LLM Safety"],
+        thumbnail: "/images/blog/psychometric-ai.jpg",
+        link: "#",
+        featured: true,
+    },
+];
+
+export default RESEARCH_PROJECTS;

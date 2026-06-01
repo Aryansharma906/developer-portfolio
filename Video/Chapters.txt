@@ -1,0 +1,10 @@
+00:00 - Intro
+00:20 - Setup & Prereqs
+00:50 - Run the project & reproduce the issue
+02:00 - Find LinkedIn link
+03:30 - Create shared data files
+04:30 - Refactor Hero & Contact
+06:40 - Build & preview
+07:20 - Add GitHub Actions for deploy
+08:20 - Commit & push
+09:00 - Outro / CTA

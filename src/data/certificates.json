@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "title": "App Developer Certificate",
+        "issuer": "Outskill Academy",
+        "date": "2024",
+        "description": "Professional certification validating expertise in cross-platform mobile development. Covers iOS/Android native development, React Native framework, performance optimization, app store deployment, and production-ready application architecture. Demonstrates ability to build scalable mobile applications from concept to deployment.",
+        "pdfUrl": "/certificates/App Developer Certificate.pdf",
+        "icon": "📱",
+        "category": "Development",
+        "skills": [
+            "iOS",
+            "Android",
+            "React Native",
+            "Cross-platform Development"
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Full-Stack Developer Excellence",
+        "issuer": "Technical Excellence Board",
+        "date": "2024",
+        "description": "Industry-recognized certification confirming advanced full-stack development competency. Validates end-to-end application development skills including backend API design with Node.js, frontend development with React/TypeScript, database architecture (SQL/NoSQL), cloud deployment (AWS/Docker), and modern DevOps practices. Proves ability to architect and deploy production-grade web applications.",
+        "pdfUrl": "/certificates/Aryan_Sharma_Certificate.pdf",
+        "icon": "🏆",
+        "category": "Professional Achievement",
+        "skills": [
+            "TypeScript",
+            "React",
+            "Node.js",
+            "AWS",
+            "Docker"
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Advanced Web Technologies",
+        "issuer": "Outskill Academy",
+        "date": "2024",
+        "description": "Specialized certification in cutting-edge web technologies and modern development patterns. Covers Progressive Web Apps (PWA), real-time communication with WebRTC, GraphQL API design, microservices architecture, performance optimization, and advanced JavaScript patterns. Demonstrates mastery of contemporary web development methodologies and best practices.",
+        "pdfUrl": "/certificates/Aryan_Sharma_Certificate copy.pdf",
+        "icon": "⭐",
+        "category": "Technical Excellence",
+        "skills": [
+            "Progressive Web Apps",
+            "WebRTC",
+            "GraphQL",
+            "Microservices"
+        ]
+    },
+    {
+        "id": 4,
+        "title": "AR/WebXR Specialization",
+        "issuer": "Immersive Technology Institute",
+        "date": "2024",
+        "description": "Pioneer-level certification in immersive web experiences and spatial computing. Validates expertise in WebXR API, Three.js/Babylon.js 3D graphics programming, augmented reality web applications, spatial interaction design, and browser-native AR/VR experiences. Demonstrates cutting-edge skills in next-generation interactive web technologies.",
+        "pdfUrl": "/certificates/Aryan_Sharma_Certificate copy 2.pdf",
+        "icon": "🎯",
+        "category": "Specialization",
+        "skills": [
+            "WebXR",
+            "Three.js",
+            "Babylon.js",
+            "Spatial Computing"
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Music Production & Composition",
+        "issuer": "Creative Arts Academy",
+        "date": "2024",
+        "description": "Professional certification in music production, sound design, and digital composition. Demonstrates skills in audio engineering, music theory, and production workflows. Showcases creative expertise beyond software development.",
+        "pdfUrl": "/certificates/Music Certificate.pdf",
+        "icon": "🎵",
+        "category": "Creative Arts",
+        "skills": [
+            "Music Production",
+            "Sound Design",
+            "Audio Engineering",
+            "Composition"
+        ]
+    },
+    {
+        "id": 6,
+        "title": "Professional Excellence Certificate",
+        "issuer": "Certification Authority",
+        "date": "2024",
+        "description": "Comprehensive professional development recognition acknowledging commitment to continuous learning, industry best practices, and maintaining high technical standards. Represents dedication to professional growth, staying current with emerging technologies, and contributing to the developer community through knowledge sharing and innovation.",
+        "pdfUrl": "/certificates/certificate.pdf",
+        "icon": "✨",
+        "category": "Professional",
+        "skills": [
+            "Professional Development",
+            "Continuous Learning",
+            "Excellence"
+        ]
+    }
+]

@@ -1,0 +1,16 @@
+Thumbnail ideas
+
+Option A (clean):
+- Big text: "Refactor & Deploy React Site"
+- Subtext: "Centralize socials + GitHub Pages"
+- Visual: screenshot of VS Code on the left and terminal on the right, with a red arrow pointing to code.
+
+Option B (personal):
+- Big text: "Fix LinkedIn Links"
+- Subtext: "Centralize socials in 10 minutes"
+- Visual: a portrait crop (if you want), plus a GitHub logo and a "Deploy" badge.
+
+Tips:
+- Use bold, high-contrast colors (white/yellow on dark background).
+- Keep the face large if it's a talking-head video.
+- Add a small badge: "Vite + React" in a corner.

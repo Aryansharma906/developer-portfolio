@@ -1,0 +1,59 @@
+{
+    "name": "Aryan Sharma",
+    "title": "AI/ML & Data Science Specialist",
+    "summary": "AI/ML & Data Science specialist with hands-on experience in machine learning, NLP, deep learning, and MLOps. Proficient in Python, Scikit-learn, TensorFlow/PyTorch, LangChain, SQL, and data visualization. Eager to contribute to AI/ML-driven products and research-oriented roles.",
+    "contact": {
+        "email": "aryanaryan.9956@icloud.com",
+        "github": "Aryansharma906",
+        "linkedin": "https://linkedin.com/in/aryan-sharma-engineer"
+    },
+    "skills": [
+        "Machine Learning",
+        "Deep Learning",
+        "NLP & GenAI",
+        "Python",
+        "SQL",
+        "MLOps & DevOps",
+        "Data Analytics"
+    ],
+    "experience": [
+        {
+            "role": "Cyber Security Analyst Intern",
+            "company": "Tata Consultancy Services",
+            "period": "Feb 2026 - May 2026",
+            "description": "Engineered and documented IAM frameworks for enterprise-level systems. Designed automated HR-driven User Lifecycle (JML) pipelines and context-aware Multi-Factor Authentication (MFA) to enforce Zero Trust architecture. Collaborated with a Cybersecurity Consulting team to align security policies with business objectives."
+        },
+        {
+            "role": "Data Analytics Intern",
+            "company": "Deloitte",
+            "period": "Dec 2025 - Feb 2026",
+            "description": "Conducted forensic data investigations on large-scale datasets, identifying anomalies, compliance risks, and behavioral patterns. Engineered dynamic Tableau dashboards translating raw findings into high-impact visual narratives. Leveraged Advanced Excel to classify, clean, and synthesize datasets for risk mitigation strategies."
+        },
+        {
+            "role": "Gen AI Data Analytics Job Simulation",
+            "company": "Tata Group",
+            "period": "Nov 2025 - Feb 2026",
+            "description": "Conducted exploratory data analysis (EDA) to evaluate customer delinquency risk and structured insights for predictive modeling within financial services."
+        },
+        {
+            "role": "Software Engineering Job Simulation",
+            "company": "JPMorgan Chase (Forage)",
+            "period": "Completed Feb 2026",
+            "description": "Designed an AI-driven collections strategy leveraging agentic AI automation, incorporating ethical AI principles, regulatory compliance, and scalable implementation frameworks. Integrated Kafka and Spring Boot into a microservice architecture."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Technology (B.Tech) in Computer Science",
+            "institution": "B.Tech Academic Program",
+            "period": "2026 - 2030",
+            "description": "Focus on Data Science, Artificial Intelligence, and Software Engineering."
+        },
+        {
+            "degree": "Senior Secondary (12th)",
+            "institution": "CBSE",
+            "period": "2024 - 2025",
+            "description": "GPA: 7.4/10"
+        }
+    ]
+}

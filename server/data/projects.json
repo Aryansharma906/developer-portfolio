@@ -1,0 +1,23 @@
+[
+    {
+        "id": "proj-1",
+        "title": "WebXR Gallery",
+        "summary": "An AR/WebXR portfolio project featuring interactive 3D scenes.",
+        "url": "https://example.com/webxr-gallery",
+        "tags": [
+            "AR",
+            "WebXR",
+            "three.js"
+        ]
+    },
+    {
+        "id": "proj-2",
+        "title": "Realtime Music Visualizer",
+        "summary": "Audio-reactive visuals built with WebAudio and WebGL.",
+        "url": "https://example.com/music-viz",
+        "tags": [
+            "audio",
+            "visuals"
+        ]
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "id": "llm-prompt-short",
+        "title": "Prompt Injection: Practical Risks for LLM Applications (Short)",
+        "excerpt": "A concise overview of prompt injection techniques and basic mitigations for deployed LLM systems.",
+        "url": "https://www.linkedin.com/posts/example/prompt-injection-short",
+        "thumbnail": "/images/blog/llm-prompt.jpg",
+        "tags": [
+            "LLM",
+            "Security",
+            "AI"
+        ],
+        "featured": true
+    },
+    {
+        "id": "llm-prompt-deep",
+        "title": "Prompt Injection: Deep Analysis and Defenses",
+        "excerpt": "An in-depth analysis of prompt injection vectors, attacker models, and defensive design patterns for production LLMs.",
+        "url": "https://www.linkedin.com/posts/example/prompt-injection-deep",
+        "thumbnail": "/images/blog/llm-security.jpg",
+        "tags": [
+            "LLM",
+            "Cybersecurity",
+            "AI Safety"
+        ],
+        "featured": false
+    },
+    {
+        "id": "psychometric-ai",
+        "title": "Brain-Inspired Psychometric Neural Network",
+        "excerpt": "A neurocognitively-informed model for Big Five trait inference using attentional modules and BiLSTM layers.",
+        "url": "#",
+        "thumbnail": "/images/blog/psychometric-ai.jpg",
+        "tags": [
+            "AI",
+            "Psychometrics",
+            "Neuroscience"
+        ],
+        "featured": false
+    }
+]
