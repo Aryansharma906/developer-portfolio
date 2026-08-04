@@ -11,7 +11,7 @@
 
 ## 🌟 About This Project
 
-Hey there! I'm **Aryan Sharma**, and this is my personal portfolio website that I built from scratch. As an aspiring AI/ML enthusiast and full-stack developer currently preparing for JEE Mains 2026 while honing my technical skills, I wanted to create a professional online presence that showcases my journey in tech.
+Hey there! I'm **Aryan Sharma**, and this is my personal portfolio website that I built from scratch. As an aspiring AI/ML enthusiast and full-stack developer currently pursuing BTech CSE at IILM University while honing my technical skills, I wanted to create a professional online presence that showcases my journey in tech.
 
 This portfolio is more than just a website—it's a reflection of my passion for creating elegant, high-performance web applications using modern technologies. I built this single-page application to demonstrate my skills in React, TypeScript, and responsive design while providing a platform to share my projects and connect with fellow developers and potential collaborators.
 
